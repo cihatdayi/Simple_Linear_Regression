@@ -1,2 +1,2 @@
-# Lineer Regresyon İle Maaş Tahmin Modellemesi
+# Lineer Regresyon İle Maaş Tahmin Modeli
 
